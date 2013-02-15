@@ -23,13 +23,13 @@ head
 ```
 
 This makes your express site now look like this
-![bootstrapped]()
+![bootstrapped](https://raw.github.com/olinjs/olinjs-7/master/imgs/bootstrapped.png?login=jiahuang&token=6da1da7a337d8f4e0bcd86700bbbb505)
 
 Yay. Look at that. Now all your text is way over to the site. Isn't that just great? 
 
 Either we're blind or that's still terrible. We need to go to the [Twitter Bootstrap docs](http://twitter.github.com/bootstrap/getting-started.html#examples) to make it better. 
 Let's make it look like this 
-![starter-template]()
+![starter-template](https://raw.github.com/olinjs/olinjs-7/master/imgs/starter-template.png?login=jiahuang&token=805f6af8da06ab95d69227c80a539e78)
 
 First, let's go to the example page for that [http://twitter.github.com/bootstrap/examples/starter-template.html](http://twitter.github.com/bootstrap/examples/starter-template.html).
 
@@ -76,7 +76,7 @@ html(lang='en')
 
 Now when we re-render our Express homepage, we get something that looks way better
 
-![way-better]()
+![way-better](https://raw.github.com/olinjs/olinjs-7/master/imgs/way-better.png?login=jiahuang&token=7d192f8358ab91c27e370f57bc32f07b)
 
 ## Making Bootstrap look better
 
